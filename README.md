@@ -1,7 +1,7 @@
 # Animated Flutter Login Screen 
 A Synthwave-themed login screen written in Flutter as my finals output. 
 
-![Alt text](https://github.com/Sturg25/Animated-Flutter-Login-Screen/blob/main/finals.gif)
+![Alt text](https://github.com/Sturg25/Animated-Flutter-Login-Screen/blob/main/finals.gif =250x)
 
 <img src="https://github.com/Sturg25/Animated-Flutter-Login-Screen/blob/main/finals.gif" width="48>
 
@@ -45,5 +45,8 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 
 
 ### Development
-**Christian Sarabia** BSCS-3A [GitHub Page](https://github.com/Sturg25/)
+
+## ***Christian Sarabia***
+## ***BSCS-3A*** 
+## [GitHub Page](https://github.com/Sturg25/)
 

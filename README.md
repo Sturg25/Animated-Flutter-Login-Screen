@@ -41,7 +41,6 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 -Music is extracted from [https://www.youtube.com/watch?v=mZvQ9ipTK_8&t=69s]
 -Once you logout, the radio will also stop.
 
-##### **Screenshots**
 ## Screenshots
 
 Login Page               |  Login Page - Blank input  |  Login Page - Invalid input | Menu Page

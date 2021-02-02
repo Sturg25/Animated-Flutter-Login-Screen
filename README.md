@@ -22,9 +22,9 @@ Follow these steps to start using the flutter project:
 
 | Package |  README | 
 | ------ | ------ |
-| lottie 0.6.0 | https://pub.dev/packages/lottie/versions/0.6.0 |
-| form_field_validator 1.0.1| https://pub.dev/packages/form_field_validator |
-| assets_audio_player 1.4.0 | https://pub.dev/packages/assets_audio_player |
+| lottie  | https://pub.dev/packages/lottie |
+| form_field_validator | https://pub.dev/packages/form_field_validator |
+| assets_audio_player | https://pub.dev/packages/assets_audio_player |
 
 ## Background of the Project
 The project consists of 2 screens, the **Login Page** and **Menu Page**. 

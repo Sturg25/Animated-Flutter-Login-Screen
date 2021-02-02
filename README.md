@@ -1,16 +1,51 @@
-# Animated FLutter Login Screen (finals_output)
+# Animated Flutter Login Screen 
+A Synthwave-themed login screen written in Flutter as my finals output. 
 
-Finals Output
+![Alt text](https://github.com/Sturg25/Animated-Flutter-Login-Screen/blob/main/finals.gif)
 
-## Getting Started
+<img src="https://github.com/Sturg25/Animated-Flutter-Login-Screen/blob/main/finals.gif" width="48>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+Follow these steps to start using the flutter project:
+Install package depencies in the ***pubspec.yaml*** from the command line.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```sh
+$ flutter pub get
+```
+Alternatively, your editor might support ***flutter pub get***.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Instructions
+Follow these steps to start using the flutter project:
+
+  1. Build the project and run ***main.dart***.
+  2. To authenticate with the login screen, input ``cictapps@wvsu.edu.ph`` as email and  ``pass:1234`` as password.
+
+### Packages Used
+
+| Package |  README | 
+| ------ | ------ |
+| lottie 0.6.0 | https://pub.dev/packages/lottie/versions/0.6.0 |
+| form_field_validator 1.0.1| https://pub.dev/packages/form_field_validator |
+| assets_audio_player 1.4.0 | https://pub.dev/packages/assets_audio_player |
+
+### Background of the Project
+The project consists of 2 screens, the **Login Page** and **Menu Page**. 
+
+##### **Login Page** 
+- I used form field validator to validate the data input in email and password forms. Any ``empty`` and ``invalid`` inputs will show an error prompt.
+- The animation used is from Lottie [https://lottiefiles.com/36400-synthrunner]
+
+##### **Menu Page**
+- The purpose of this page is to chill while listening to the radio played in background using the ***assets_audio_player 1.4.0***
+- The animation used is from Lottie [https://lottiefiles.com/36400-synthrunner] 
+- Another animation used is from a GIF found in Google Images that I converted into a lottie animation file.
+-The duration of the background music of the radio is **45 minutes and 30 seconds**.
+-Once you logout, the radio will also stop.
+
+
+### Development
+**Christian Sarabia**
+BSCS-3A
+[GitHub](https://github.com/Sturg25/)
+

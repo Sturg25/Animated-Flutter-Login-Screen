@@ -3,7 +3,7 @@ A Synthwave-themed login screen written in Flutter as my finals output.
 
 ![Alt text](https://github.com/Sturg25/Animated-Flutter-Login-Screen/blob/main/finals.gif =250x)
 
-<img src="https://github.com/Sturg25/Animated-Flutter-Login-Screen/blob/main/finals.gif" width="48>
+<img src="finals.gif" alt="Preview" width="200"/>
 
 
 ### Installation

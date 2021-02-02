@@ -43,7 +43,7 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 
 ### Development
 
-## ***Christian Sarabia***
-## ***BSCS-3A*** 
-## [GitHub Page](https://github.com/Sturg25/)
+#### ***Christian Sarabia***
+#### ***BSCS-3A*** 
+#### [GitHub Page](https://github.com/Sturg25/)
 

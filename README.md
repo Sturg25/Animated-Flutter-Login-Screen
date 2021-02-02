@@ -1,5 +1,5 @@
 # Animated Flutter Login Screen 
-A Synthwave-themed login screen written in Flutter as my finals output. 
+A Synthwave-themed login screen written in Flutter as finals output. 
 
 <img src="finals.gif" alt="Preview" width="300"/>
 

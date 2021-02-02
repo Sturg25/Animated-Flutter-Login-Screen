@@ -50,7 +50,7 @@ Login Page               |  Login Page - Blank input  |  Login Page - Invalid in
 
 ## Development
 
-#### 1.***Christian Sarabia***
+#### 1. ***Christian Sarabia***
 2.
 3.
 

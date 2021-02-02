@@ -47,9 +47,7 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 Login Page               |  Login Page - Blank input  |  Login Page - Invalid input
 :-------------------------:|:-------------------------:|:-------------------------:
 ![]
-<img src="Screenshots/login.gif" alt="Preview" width="300"/)|![]
-<img src="Screenshots/blank.gif" alt="Blank Input" width="300"/>|![]
-<img src="Screenshots/invalid.gif" alt="Invalid Input" width="300"/> 
+![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_3.jpg?raw=true) 
 
 
 ## Development

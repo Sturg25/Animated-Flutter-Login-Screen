@@ -1,7 +1,7 @@
 # Animated Flutter Login Screen 
 A Synthwave-themed login screen written in Flutter as finals output. 
 
-<img src="finals.gif" alt="Preview" width="300"/>
+<img src="preview.gif" alt="Preview" width="300"/>
 
 
 ### Installation
@@ -40,6 +40,13 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 -The duration of the background music of the radio is **45 minutes and 30 seconds**.
 -Music is extracted from [https://www.youtube.com/watch?v=mZvQ9ipTK_8&t=69s]
 -Once you logout, the radio will also stop.
+
+##### **Screenshots**
+## Screenshots
+
+Login               |  Welcome  |  Register
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_2.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_1.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_login_signup/blob/master/screenshots/screenshot_3.jpg?raw=true) 
 
 
 ## Development

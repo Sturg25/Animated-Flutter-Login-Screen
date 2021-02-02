@@ -31,13 +31,14 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 
 ##### **Login Page** 
 - I used form field validator to validate the data input in email and password forms. Any ``empty`` and ``invalid`` inputs will show an error prompt.
-- The animation used is from Lottie [https://lottiefiles.com/36400-synthrunner]
+- The animation used is from Lottie [https://lottiefiles.com/36400-synthrunner].
 
 ##### **Menu Page**
-- The purpose of this page is to chill while listening to the radio played in background using the ***assets_audio_player 1.4.0***
-- The animation used is from Lottie [https://lottiefiles.com/36400-synthrunner] 
+- The purpose of this page is to chill while listening to the radio played in background using the ***assets_audio_player 1.4.0***.
+- The animation used is from Lottie [https://lottiefiles.com/36400-synthrunner].
 - Another animation used is from a GIF found in Google Images that I converted into a lottie animation file.
 -The duration of the background music of the radio is **45 minutes and 30 seconds**.
+-Music is extracted from [https://www.youtube.com/watch?v=mZvQ9ipTK_8&t=69s]
 -Once you logout, the radio will also stop.
 
 

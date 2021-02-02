@@ -5,7 +5,6 @@ A Synthwave-themed login screen written in Flutter as my finals output.
 
 
 ### Installation
-Follow these steps to start using the flutter project:
 Install package depencies in the ***pubspec.yaml*** from the command line.
 
 ```sh

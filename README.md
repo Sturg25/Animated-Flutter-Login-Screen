@@ -16,7 +16,7 @@ Alternatively, your editor might support ***flutter pub get***.
 Follow these steps to start using the flutter project:
 
   1. Build the project and run ***main.dart***.
-  2. To authenticate with the login screen, input ``cictapps@wvsu.edu.ph`` as email and  ``pass:1234`` as password.
+  2. To authenticate with the login screen, input ``**cictapps@wvsu.edu.ph** as email`` and ``1234 as password``.
 
 ### Packages Used
 

@@ -51,6 +51,3 @@ Login Page               |  Login Page - Blank input  |  Login Page - Invalid in
 ## Development
 
 #### ***Christian Sarabia***
-#### ***BSCS-3A*** 
-#### [GitHub Page](https://github.com/Sturg25/)
-

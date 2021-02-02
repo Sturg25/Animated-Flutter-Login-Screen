@@ -12,7 +12,7 @@ $ flutter pub get
 ```
 Alternatively, your editor might support ***flutter pub get***.
 
-### Instructions
+## Instructions
 Follow these steps to start using the flutter project:
 
   1. Build the project and run ***main.dart***.

@@ -45,7 +45,7 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 ## Screenshots
 
 Login Page               |  Login Page - Blank input  |  Login Page - Invalid input
-:-------------------------:|:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/Sturg25/finals_output/blob/main/Screenshots/loginpage.png)|![](https://github.com/Sturg25/finals_output/blob/main/Screenshots/blank.png)|![](https://github.com/Sturg25/finals_output/blob/main/Screenshots/invalid.png) 
 
 

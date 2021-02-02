@@ -26,7 +26,7 @@ Follow these steps to start using the flutter project:
 | form_field_validator 1.0.1| https://pub.dev/packages/form_field_validator |
 | assets_audio_player 1.4.0 | https://pub.dev/packages/assets_audio_player |
 
-### Background of the Project
+## Background of the Project
 The project consists of 2 screens, the **Login Page** and **Menu Page**. 
 
 ##### **Login Page** 
@@ -41,7 +41,7 @@ The project consists of 2 screens, the **Login Page** and **Menu Page**.
 -Once you logout, the radio will also stop.
 
 
-### Development
+## Development
 
 #### ***Christian Sarabia***
 #### ***BSCS-3A*** 
